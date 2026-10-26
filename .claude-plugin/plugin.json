@@ -1,0 +1,8 @@
+{
+  "name": "moon-night",
+  "version": "0.1.0",
+  "description": "Animated pixel-art day and night scene in a band above the prompt: moon, shooting stars, sun, clouds, lake.",
+  "author": { "name": "IDashundI" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
